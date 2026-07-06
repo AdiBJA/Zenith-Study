@@ -1,0 +1,6 @@
+{
+  "name": "Zenith Study",
+  "description": "Ultimate gamified study timer, daily task planner, live simulated social rooms, custom audio soundscape mixer, and smart Gemini-powered AI study insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
